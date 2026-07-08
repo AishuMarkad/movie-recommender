@@ -1,2 +1,23 @@
-# movie-recommender
-**Movie Recommender SysteBuilt a content-based movie recommendation system using Python and scikit-learn. Processed movie dataset and generated similarity matrix using CountVectorizer and cosine similarity. Developed an interactive web app using Streamlit for real-time Implemented user-friendly UI with movie selection and instant recommendations. 
+# 🎬 Movie Recommender System
+
+This is a Machine Learning based Movie Recommendation System built using Python and Streamlit.
+
+## 🚀 Features
+- Recommend similar movies based on selected movie
+- Uses Content-Based Filtering
+- Built using CountVectorizer and Cosine Similarity
+
+## 🛠️ Tech Stack
+- Python
+- Pandas
+- Scikit-learn
+- Streamlit
+
+## ▶️ Run Locally
+streamlit run app.py
+
+## 📌 Project Output
+Select a movie → Get 5 recommended movies
+
+## 👩‍💻 Author
+Aishwarya Markad
